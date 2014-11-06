@@ -48,6 +48,9 @@ public class Stylometer {
         java.awt.EventQueue.invokeLater(() -> {
             new SimpleStylometer().setVisible(true);
         });
+        
+        System.out.println("qualquer coisa");
+        
     }
     
 }
